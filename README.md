@@ -8,4 +8,7 @@ This tutorial will walk you through creating a basic blog application called Fla
 python -m flask --app flaskr run --debug
 ```
 
-
+### Init database command
+```
+python -m flask --app flaskr init-db
+```
